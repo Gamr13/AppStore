@@ -125,7 +125,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "ms-windows-store://pdp/?productid=9NNQZL5M5VJ1"
+                    "Data": "ms-windows-store://pdp/?productid=9P1WCX79053F"
                 },
                 {
                     "Text" : "Guide",
@@ -182,7 +182,7 @@
         },
 
         {
-            "Title": "Retro Pass",
+            "Title": "RetroPass",
             "Group": "TOOLS",
             "Icon": "https://gamr13.github.io/img/retropass.png",
             "Width": 150,
@@ -196,7 +196,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "ms-windows-store://pdp/?productid=9NCNBZ75J0CJ"
+                    "Data": "ms-windows-store://pdp/?productid=9PF6RLBHW4F6"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -231,7 +231,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "ms-windows-store://pdp/?productid=9N77VJP33LKS"
+                    "Data": "ms-windows-store://pdp/?productid=9NH5Q1C1KLRT"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -267,7 +267,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "ms-windows-store://pdp/?productid=9P33R6LNH6P5"
+                    "Data": "ms-windows-store://pdp/?productid=9NQH69DV6TMN"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -303,7 +303,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "ms-windows-store://pdp/?productid=9PL2BJWXS1Z8"
+                    "Data": "ms-windows-store://pdp/?productid=9NZ9ZH0F053F"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -339,7 +339,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "ms-windows-store://pdp/?productid=9N269XJ9HNCJ"
+                    "Data": "ms-windows-store://pdp/?productid=9NGSTDK7QF2X"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -411,7 +411,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "ms-windows-store://pdp/?productid=9NNBZ8F71VDF"
+                    "Data": "ms-windows-store://pdp/?productid=9NZHXXGT3L7Z"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -447,7 +447,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "ms-windows-store://pdp/?productid=9PGCZJM1GWF8"
+                    "Data": "ms-windows-store://pdp/?productid=9PDQHGPFQRHM"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -483,7 +483,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "ms-windows-store://pdp/?productid=9P2Q4761SRS6"
+                    "Data": "ms-windows-store://pdp/?productid=9N6B40SRZ9N5"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -519,7 +519,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "ms-windows-store://pdp/?productid=9P4FCNNV6B2X"
+                    "Data": "ms-windows-store://pdp/?productid=9N0HF3NX6JSN"
                 },
                 {
                     "Text" : "Dev Mode",
