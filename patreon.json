@@ -125,7 +125,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "https://cutt.ly/mK7XXLO"
+                    "Data": "https://tinyurl.com/45wmejfm"
                 },
                 {
                     "Text" : "Guide",
@@ -145,77 +145,6 @@
             ]
         },
 
-        
-        {
-            "Title": "RetriX Gold",
-            "Group": "Emulators",
-            "Icon": "https://gamr13.github.io/img/retrix.png",
-            "Width": 120,
-            "Height": 120,
-            "Stretched": false,
-            "Tag": "FEATURED",
-            "TagColor": "Gold",
-            "Border": 1,
-            "Color": "#663949ab",
-            "Menu":[
-                {
-                    "Text" : "Install",
-                    "Type":"uri",
-                    "Data": "https://cutt.ly/oK7XVRp"
-                },
-                {
-                    "Text" : "Install Cores",
-                    "Type":"uri",
-                    "Data": "rgxactivate::ms"
-                },
-                {
-                    "Text" : "Official Page",
-                    "Type":"link",
-                    "Data": "https://retrix.astifan.online/"
-                },
-                {
-                    "Text" : "About",
-                    "Type":"dialog",
-                    "Data": "RetriX is the first Libretro front end that is optimized for multiple input methods: gamepad, mouse + keyboard and touch are all first class citizens."
-                }
-            ]
-        },
-
-        {
-            "Title": "Retro Pass",
-            "Group": "TOOLS",
-            "Icon": "https://gamr13.github.io/img/retropass.png",
-            "Width": 150,
-            "Height": 130,
-            "Stretched": false,
-            "Tag": "",
-            "TagColor": "Gold",
-            "Border": 1,
-            "Color": "#663949ab",
-            "Menu":[
-                {
-                    "Text" : "Install",
-                    "Type":"uri",
-                    "Data": "https://cutt.ly/JK7XB5B"
-                },
-                {
-                    "Text" : "Dev Mode",
-                    "Type": "link",
-                    "Data": "https://github.com/retropassdev/RetroPass/releases/download/RetroPass_v1.0.3/RetroPass_v1.0.3.zip"
-                },
-                {
-                    "Text" : "Official Page",
-                    "Type":"link",
-                    "Data": "https://github.com/retropassdev/RetroPass"
-                },
-                {
-                    "Text" : "About",
-                    "Type":"dialog",
-                    "Data": "Retro Pass is a simple frontend for RetroArch running on Xbox. The UI is similar to that of the Game Pass / My Games & Apps section of Xbox for a familiar feel."
-                }
-            ]
-        },
-
         {
             "Title": "DurangoFTP",
             "Group": "TOOLS",
@@ -231,7 +160,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "https://cutt.ly/6K7XMbn"
+                    "Data": "https://tinyurl.com/5n89wrhw"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -266,7 +195,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "https://cutt.ly/kK7X1Nw"
+                    "Data": "https://tinyurl.com/2a6mrj9w"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -301,7 +230,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "https://cutt.ly/sK7X2Yr"
+                    "Data": "https://tinyurl.com/3yjp7kvr"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -336,7 +265,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "https://cutt.ly/lK7X9Cv"
+                    "Data": "https://tinyurl.com/2s3w39nd"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -372,7 +301,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "https://cutt.ly/JK7X8bz"
+                    "Data": "https://tinyurl.com/yck4jz8w"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -408,7 +337,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "https://cutt.ly/AK7X42f"
+                    "Data": "https://tinyurl.com/jb2apyw6"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -480,7 +409,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "https://cutt.ly/ZK7X6CC"
+                    "Data": "https://tinyurl.com/2p9e5ewy"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -499,116 +428,8 @@
                 }
             ]
         },
-
-
-        {
-            "Title": "Sonic Time Twisted",
-            "Group": "Games",
-            "Icon": "https://gamr13.github.io/img/STT.png",
-            "Width": 150,
-            "Height": 130,
-            "Stretched": false,
-            "Tag": "",
-            "TagColor": "White",
-            "Border": 1,
-            "Color": "#663949ab",
-            "Menu":[
-                {
-                    "Text" : "Install",
-                    "Type":"uri",
-                    "Data": "https://cutt.ly/0K7CwQi"
-                },
-                {
-                    "Text" : "Dev Mode",
-                    "Type": "link",
-                    "Data": "https://www.mediafire.com/file/74shtqbyzr4q2dg/Sonic_Time_Twisted_%255BUnofficial%255D_%2528v1.1.2.0%2529.appx/file"
-                },
-                {
-                    "Text" : "Official Page",
-                    "Type":"link",
-                    "Data": "https://github.com/overbound/SonicTimeTwisted"
-                },
-                {
-                    "Text" : "About",
-                    "Type":"dialog",
-                    "Data": "Sonic Time Twisted is an unofficial classic-style Sonic the Hedgehog fangame."
-                }
-            ]
-        },
-
-
-        {
-            "Title": "Sonic 1 SMS Remake",
-            "Group": "Games",
-            "Icon": "https://gamr13.github.io/img/Son1SMS.gif",
-            "Width": 150,
-            "Height": 140,
-            "Stretched": false,
-            "Tag": "",
-            "TagColor": "Blue",
-            "Border": 1,
-            "Color": "#663949ab",
-            "Menu":[
-                {
-                    "Text" : "Install",
-                    "Type":"uri",
-                    "Data": "https://cutt.ly/6K7CrnO"
-                },
-                {
-                    "Text" : "Dev Mode",
-                    "Type": "link",
-                    "Data": "https://github.com/MDashK/sonic-1-sms-remake-xbox/releases/download/v1.1.h-xbox/Sonic_1_SMS_Remake_XboxOne.appx"
-                },
-                {
-                    "Text" : "Official Page",
-                    "Type":"link",
-                    "Data": "https://github.com/MDashK/sonic-1-sms-remake-xbox"
-                },
-                {
-                    "Text" : "About",
-                    "Type":"dialog",
-                    "Data": "This game is a redesigned version of the Master System released by SEGA in 1991."
-                }
-            ]
-        },
-
-
-        {
-            "Title": "Sonic 2 SMS Remake",
-            "Group": "Games",
-            "Icon": "https://gamr13.github.io/img/Son2SMS.png",
-            "Width": 150,
-            "Height": 140,
-            "Stretched": false,
-            "Tag": "",
-            "TagColor": "Blue",
-            "Border": 1,
-            "Color": "#663949ab",
-            "Menu":[
-                {
-                    "Text" : "Install",
-                    "Type":"uri",
-                    "Data": "https://cutt.ly/mK7Ct2g"
-                },
-                {
-                    "Text" : "Dev Mode",
-                    "Type": "link",
-                    "Data": "https://github.com/MDashK/sonic-2-sms-remake-xbox/releases/download/v2.0.d-xbox/Sonic_2_SMS_Remake_Xbox.appx"
-                },
-                {
-                    "Text" : "Official Page",
-                    "Type":"link",
-                    "Data": "https://github.com/MDashK/sonic-2-sms-remake-xbox"
-                },
-                {
-                    "Text" : "About",
-                    "Type":"dialog",
-                    "Data": "This game is a redesigned version of the Master System released by SEGA in 1992."
-                }
-            ]
-        },
 		
-		{
+	{
             "Title": "Sonic 1",
             "Group": "Games",
             "Icon": "https://gamr13.github.io/img/sonic1.jpg",
@@ -623,7 +444,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "https://cutt.ly/0K7Cufx"
+                    "Data": "https://tinyurl.com/24pn5adb"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -643,7 +464,7 @@
             ]
         },
 		
-		{
+	{
             "Title": "Sonic 2",
             "Group": "Games",
             "Icon": "https://gamr13.github.io/img/sonic2.jpg",
@@ -658,7 +479,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "https://cutt.ly/GK7CiGu"
+                    "Data": "https://tinyurl.com/z23dy9jm"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -678,10 +499,10 @@
             ]
         },
 		
-		{
+	{
             "Title": "Sonic CD",
             "Group": "Games",
-            "Icon": "https://gamr13.github.io/img/soniccd.jpg",
+            "Icon": "https://gamr13.github.io/img/soniccd.jpeg",
             "Width": 150,
             "Height": 140,
             "Stretched": false,
@@ -693,7 +514,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "https://cutt.ly/PK7Co4u"
+                    "Data": "https://tinyurl.com/yckuucpt"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -713,7 +534,7 @@
             ]
         },
 		
-		{
+	{
             "Title": "VVVVVV",
             "Group": "Games",
             "Icon": "https://gamr13.github.io/img/v6jpg.jpg",
@@ -743,7 +564,7 @@
             ]
         },
 		
-		{
+	{
             "Title": "Pac-Man",
             "Group": "Games",
             "Icon": "https://gamr13.github.io/img/Pac-Man.jpg",
@@ -758,7 +579,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "https://cutt.ly/oK7CfxG"
+                    "Data": "https://tinyurl.com/yu6rt5s3"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -773,7 +594,7 @@
             ]
         },
 		
-		{
+	{
             "Title": "OpenLara",
             "Group": "Games",
             "Icon": "https://gamr13.github.io/img/openLara.jpg",
@@ -788,7 +609,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "https://cutt.ly/ZK7Cgc9"
+                    "Data": "https://tinyurl.com/yjhwwcc9"
                 },
                 {
                     "Text" : "Dev Mode",
