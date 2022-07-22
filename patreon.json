@@ -179,8 +179,38 @@
                 }
             ]
         },
+	
+	{
+            "Title": "RetroPass",
+            "Group": "TOOLS",
+            "Icon": "https://gamr13.github.io/img/retropass.png",
+            "Width": 150,
+            "Height": 130,
+            "Stretched": false,
+            "Tag": "",
+            "TagColor": "Gold",
+            "Border": 1,
+            "Color": "#663949ab",
+            "Menu":[
+                {
+                    "Text" : "Install",
+                    "Type":"uri",
+                    "Data": "https://tinyurl.com/2p8vvf3e"
+                },
+                {
+                    "Text" : "Official Page",
+                    "Type":"link",
+                    "Data": "https://github.com/retropassdev/RetroPass"
+                },
+                {
+                    "Text" : "About",
+                    "Type":"dialog",
+                    "Data": "A simple frontend for RetroArch running on Xbox"
+                }
+            ]
+        },
 		
-		{
+	{
             "Title": "Kodi 19.4 Matrix",
             "Group": "TOOLS",
             "Icon": "https://gamr13.github.io/img/kodi2.png",
@@ -393,7 +423,31 @@
             ]
         },
 
-
+	{
+            "Title": "AM2R",
+            "Group": "Games",
+            "Icon": "https://gamr13.github.io/img/am2r.jpg",
+            "Width": 150,
+            "Height": 130,
+            "Stretched": false,
+            "Tag": "",
+            "TagColor": "Gold",
+            "Border": 1,
+            "Color": "#663949ab",
+            "Menu":[
+                {
+                    "Text" : "Install",
+                    "Type":"uri",
+                    "Data": "https://tinyurl.com/2t2jd34b"
+                },
+                {
+                    "Text" : "About",
+                    "Type":"dialog",
+                    "Data": "An Xbox port of Another Metroid 2 Remake."
+                }
+            ]
+        },
+	    
         {
             "Title": "Devilution X",
             "Group": "Games",
@@ -530,6 +584,31 @@
                     "Text" : "About",
                     "Type":"dialog",
                     "Data": "This game is a redesigned version of the Master System released by SEGA in 1992."
+                }
+            ]
+        },
+	    
+	{
+            "Title": "Sonic Time Twisted",
+            "Group": "Games",
+            "Icon": "https://gamr13.github.io/img/STT.png",
+            "Width": 150,
+            "Height": 140,
+            "Stretched": false,
+            "Tag": "",
+            "TagColor": "Blue",
+            "Border": 1,
+            "Color": "#663949ab",
+            "Menu":[
+                {
+                    "Text" : "Install",
+                    "Type":"uri",
+                    "Data": "https://tinyurl.com/4u7ueyt6"
+                },
+                {
+                    "Text" : "About",
+                    "Type":"dialog",
+                    "Data": "An Xbox port of Sonic Time Twisted."
                 }
             ]
         },
