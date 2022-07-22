@@ -194,6 +194,7 @@
             "Color": "#663949ab",
             "Menu":[
                 {
+                    "Text" : "Install",
                     "Type":"uri",
                     "Data": "https://tinyurl.com/5273uwya"
                 },
