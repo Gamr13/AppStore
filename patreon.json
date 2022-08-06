@@ -422,31 +422,6 @@
                 }
             ]
         },
-
-	{
-            "Title": "AM2R",
-            "Group": "Games",
-            "Icon": "https://gamr13.github.io/img/am2r.jpg",
-            "Width": 150,
-            "Height": 130,
-            "Stretched": false,
-            "Tag": "",
-            "TagColor": "Gold",
-            "Border": 1,
-            "Color": "#663949ab",
-            "Menu":[
-                {
-                    "Text" : "Install",
-                    "Type":"uri",
-                    "Data": "https://tinyurl.com/2mj95ph7"
-                },
-                {
-                    "Text" : "About",
-                    "Type":"dialog",
-                    "Data": "An Xbox port of Another Metroid 2 Remake."
-                }
-            ]
-        },
 	    
         {
             "Title": "Devilution X",
