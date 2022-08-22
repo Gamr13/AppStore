@@ -144,7 +144,42 @@
                 }
             ]
         },
-
+	    
+	{
+            "Title": "RetroArch Lite",
+            "Group": "Emulators",
+            "Icon": "https://gamr13.github.io/img/retroarch.png",
+            "Width": 150,
+            "Height": 135,
+            "Stretched": false,
+            "Tag": "",
+            "TagColor": "Gold",
+            "Border": 1,
+            "Color": "#663949ab",
+            "Menu":[
+                {
+                    "Text" : "Install",
+                    "Type":"uri",
+                    "Data": "ms-windows-store://pdp/?productid=9PNHKX10GJVC"
+                },
+                {
+                    "Text" : "Guide",
+                    "Type":"link",
+                    "Data": "http://discord.gg/dominater01"
+                },
+                {
+                    "Text" : "Dev Mode",
+                    "Type":"link",
+                    "Data": "https://drive.google.com/drive/folders/1r6uywvxYw1KtyS54mJ8345-xRFtHRu_c?usp=sharing"
+                },
+                {
+                    "Text" : "About",
+                    "Type":"dialog",
+                    "Data": "RetroArch Lite strips away functions that don't work on Xbox to make a nice clean experience!"
+                }
+            ]
+        },
+	    
         {
             "Title": "DurangoFTP",
             "Group": "TOOLS",
