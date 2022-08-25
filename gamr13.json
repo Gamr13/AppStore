@@ -183,7 +183,7 @@
         {
             "Title": "XBSX2 - Xbox ONE",
             "Group": "Emulators",
-            "Icon": "https://github.com/TheRhysWyrill/XBSX2/blob/xbox/pcsx2-uwp/Assets/LargeTile.scale-150.png",
+            "Icon": "https://i.imgur.com/oeRcXhS.png",
             "Width": 150,
             "Height": 130,
             "Stretched": false,
@@ -213,7 +213,7 @@
          {
             "Title": "XBSX2 - Xbox SERIES X|S",
             "Group": "Emulators",
-            "Icon": "https://github.com/TheRhysWyrill/XBSX2/blob/xbox/pcsx2-uwp/Assets/LargeTile.scale-150.png",
+            "Icon": "https://i.imgur.com/oeRcXhS.png",
             "Width": 150,
             "Height": 130,
             "Stretched": false,
