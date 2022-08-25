@@ -228,9 +228,9 @@
             "Color": "#663949ab",
             "Menu":[
                 {
-                    "Text" : "Unavailable",
+                    "Text" : "Install",
                     "Type":"uri",
-                    "Data": "#"
+                    "Data": "ms-windows-store://pdp/?productid=9MXB3NQMWVBR"
                 },
                 {
                     "Text" : "Official Page",
