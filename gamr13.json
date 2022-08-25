@@ -181,6 +181,66 @@
         },
         
         {
+            "Title": "XBSX2 - Xbox ONE",
+            "Group": "Emulators",
+            "Icon": "https://github.com/TheRhysWyrill/XBSX2/blob/xbox/pcsx2-uwp/Assets/LargeTile.scale-150.png",
+            "Width": 150,
+            "Height": 130,
+            "Stretched": false,
+            "Tag": "",
+            "TagColor": "Gold",
+            "Border": 1,
+            "Color": "#663949ab",
+            "Menu":[
+                {
+                    "Text" : "Install",
+                    "Type":"uri",
+                    "Data": "https://tinyurl.com/32axwdjn"
+                },
+                {
+                    "Text" : "Official Page",
+                    "Type":"link",
+                    "Data": "https://github.com/TheRhysWyrill/XBSX2"
+                },
+                {
+                    "Text" : "About",
+                    "Type":"dialog",
+                    "Data": "Standalone port of a certain PS2 emulator, this is for Xbox One consoles only!"
+                }
+            ]
+        },
+        
+         {
+            "Title": "XBSX2 - Xbox SERIES X|S",
+            "Group": "Emulators",
+            "Icon": "https://github.com/TheRhysWyrill/XBSX2/blob/xbox/pcsx2-uwp/Assets/LargeTile.scale-150.png",
+            "Width": 150,
+            "Height": 130,
+            "Stretched": false,
+            "Tag": "",
+            "TagColor": "Gold",
+            "Border": 1,
+            "Color": "#663949ab",
+            "Menu":[
+                {
+                    "Text" : "Install",
+                    "Type":"uri",
+                    "Data": "https://tinyurl.com/sadz66br"
+                },
+                {
+                    "Text" : "Official Page",
+                    "Type":"link",
+                    "Data": "https://github.com/TheRhysWyrill/XBSX2"
+                },
+                {
+                    "Text" : "About",
+                    "Type":"dialog",
+                    "Data": "Standalone port of a certain PS2 emulator, this is for Xbox SERIES consoles only!"
+                }
+            ]
+        },
+        
+        {
             "Title": "RetriX Gold",
             "Group": "Emulators",
             "Icon": "https://gamr13.github.io/img/retrix.png",
@@ -211,66 +271,6 @@
                     "Text" : "About",
                     "Type":"dialog",
                     "Data": "RetriX is the first Libretro front end that is optimized for multiple input methods: gamepad, mouse + keyboard and touch are all first class citizens."
-                }
-            ]
-        },
-        
-        {
-            "Title": "XBSX2 - Xbox ONE",
-            "Group": "TOOLS",
-            "Icon": "https://github.com/TheRhysWyrill/XBSX2/blob/xbox/pcsx2-uwp/Assets/LargeTile.scale-150.png",
-            "Width": 150,
-            "Height": 130,
-            "Stretched": false,
-            "Tag": "",
-            "TagColor": "Gold",
-            "Border": 1,
-            "Color": "#663949ab",
-            "Menu":[
-                {
-                    "Text" : "Install",
-                    "Type":"uri",
-                    "Data": "https://tinyurl.com/32axwdjn"
-                },
-                {
-                    "Text" : "Official Page",
-                    "Type":"link",
-                    "Data": "https://github.com/TheRhysWyrill/XBSX2"
-                },
-                {
-                    "Text" : "About",
-                    "Type":"dialog",
-                    "Data": "Standalone port of a certain PS2 emulator, this is for Xbox One consoles only!"
-                }
-            ]
-        },
-        
-         {
-            "Title": "XBSX2 - Xbox SERIES X|S",
-            "Group": "TOOLS",
-            "Icon": "https://github.com/TheRhysWyrill/XBSX2/blob/xbox/pcsx2-uwp/Assets/LargeTile.scale-150.png",
-            "Width": 150,
-            "Height": 130,
-            "Stretched": false,
-            "Tag": "",
-            "TagColor": "Gold",
-            "Border": 1,
-            "Color": "#663949ab",
-            "Menu":[
-                {
-                    "Text" : "Install",
-                    "Type":"uri",
-                    "Data": "https://tinyurl.com/sadz66br"
-                },
-                {
-                    "Text" : "Official Page",
-                    "Type":"link",
-                    "Data": "https://github.com/TheRhysWyrill/XBSX2"
-                },
-                {
-                    "Text" : "About",
-                    "Type":"dialog",
-                    "Data": "Standalone port of a certain PS2 emulator, this is for Xbox SERIES consoles only!"
                 }
             ]
         },
