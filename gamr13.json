@@ -381,43 +381,6 @@
             ]
         },
 
-
-        {
-            "Title": "DuckStation",
-            "Group": "Emulators",
-            "Icon": "https://gamr13.github.io/img/duck.png",
-            "Width": 150,
-            "Height": 130,
-            "Stretched": false,
-            "Tag": "",
-            "TagColor": "Gold",
-            "Border": 1,
-            "Color": "#663949ab",
-            "Menu":[
-                {
-                    "Text" : "Install",
-                    "Type":"uri",
-                    "Data": "ms-windows-store://pdp/?productid=9N0Z92MF3B5Q"
-                },
-                {
-                    "Text" : "Dev Mode",
-                    "Type": "link",
-                    "Data": "https://github.com/stenzek/duckstation/releases/download/latest/duckstation-uwp.appx"
-                },
-                {
-                    "Text" : "Official Page",
-                    "Type":"link",
-                    "Data": "https://github.com/stenzek/duckstation"
-                },
-                {
-                    "Text" : "About",
-                    "Type":"dialog",
-                    "Data": "DuckStation is a free and open-source PS1 / PSX emulator."
-                }
-            ]
-        },
-
-
         {
             "Title": "Flycast",
             "Group": "Emulators",
