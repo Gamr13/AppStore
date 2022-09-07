@@ -125,7 +125,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "ms-windows-store://pdp/?productid=9PCG9D0D30W9"
+                    "Data": "ms-windows-store://pdp/?productid=9NKTQ0WJJ4PN"
                 },
                 {
                     "Text" : "Guide",
@@ -160,7 +160,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "ms-windows-store://pdp/?productid=9N5RRVBWV001"
+                    "Data": "ms-windows-store://pdp/?productid=9NNV8BF3TJ62"
                 },
                 {
                     "Text" : "Guide",
@@ -195,7 +195,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "https://tinyurl.com/32axwdjn"
+                    "Data": "ms-windows-store://pdp/?productid=9P76KJDP00B6"
                 },
                 {
                     "Text" : "Official Page",
@@ -211,7 +211,7 @@
         },
         
          {
-            "Title": "XBSX2 - Xbox SERIES X|S",
+            "Title": "XBSX2 - SERIES X|S",
             "Group": "Emulators",
             "Icon": "https://i.imgur.com/oeRcXhS.png",
             "Width": 150,
@@ -225,7 +225,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "https://tinyurl.com/sadz66br"
+                    "Data": "ms-windows-store://pdp/?productid=9NCBJQMQGFVQ"
                 },
                 {
                     "Text" : "Official Page",
@@ -325,7 +325,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "ms-windows-store://pdp/?productid=9NFLPHSCCJ7Q"
+                    "Data": "ms-windows-store://pdp/?productid=9PCVBK26M38S"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -361,7 +361,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "ms-windows-store://pdp/?productid=9MZFKQQ4F479"
+                    "Data": "ms-windows-store://pdp/?productid=9PCZNHCMPSBN"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -396,7 +396,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "ms-windows-store://pdp/?productid=9NZBJDK1HTX9"
+                    "Data": "ms-windows-store://pdp/?productid=9NBH25C682WF"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -468,7 +468,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "ms-windows-store://pdp/?productid=9P30JPLFW0S7"
+                    "Data": "ms-windows-store://pdp/?productid=9P64S6NFP7BH"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -504,7 +504,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "ms-windows-store://pdp/?productid=9NK0RTS92N51"
+                    "Data": "ms-windows-store://pdp/?productid=9PGZFXN25J6Z"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -540,7 +540,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "ms-windows-store://pdp/?productid=9NLLGL5SVSVQ"
+                    "Data": "ms-windows-store://pdp/?productid=9PLZ6RGL0LPX"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -576,7 +576,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "ms-windows-store://pdp/?productid=9NRCQ9LCQCR9"
+                    "Data": "ms-windows-store://pdp/?productid=9PGJD2K8DKW3"
                 },
                 {
                     "Text" : "Dev Mode",
