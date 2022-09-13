@@ -125,7 +125,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "ms-windows-store://pdp/?productid=9NKTQ0WJJ4PN"
+                    "Data": "ms-windows-store://pdp/?productid=9N8VQ127K8SQ"
                 },
                 {
                     "Text" : "Guide",
@@ -146,41 +146,6 @@
         },
         
         {
-            "Title": "RetroArch LITE",
-            "Group": "Emulators",
-            "Icon": "https://gamr13.github.io/img/retroarch.png",
-            "Width": 150,
-            "Height": 135,
-            "Stretched": false,
-            "Tag": "",
-            "TagColor": "Gold",
-            "Border": 1,
-            "Color": "#663949ab",
-            "Menu":[
-                {
-                    "Text" : "Install",
-                    "Type":"uri",
-                    "Data": "ms-windows-store://pdp/?productid=9NNV8BF3TJ62"
-                },
-                {
-                    "Text" : "Guide",
-                    "Type":"link",
-                    "Data": "http://discord.gg/dominater01"
-                },
-                {
-                    "Text" : "Dev Mode",
-                    "Type":"link",
-                    "Data": "https://drive.google.com/drive/folders/1r6uywvxYw1KtyS54mJ8345-xRFtHRu_c?usp=sharing"
-                },
-                {
-                    "Text" : "About",
-                    "Type":"dialog",
-                    "Data": "RetroArch Lite strips away functions that don't work on Xbox to make a nice clean experience!"
-                }
-            ]
-        },
-        
-        {
             "Title": "XBSX2 - Xbox ONE",
             "Group": "Emulators",
             "Icon": "https://i.imgur.com/oeRcXhS.png",
@@ -195,7 +160,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "ms-windows-store://pdp/?productid=9P76KJDP00B6"
+                    "Data": "ms-windows-store://pdp/?productid=9PK3TWFSC50G"
                 },
                 {
                     "Text" : "Official Page",
@@ -225,7 +190,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "ms-windows-store://pdp/?productid=9NCBJQMQGFVQ"
+                    "Data": "ms-windows-store://pdp/?productid=9P7VQXXG6J1Z"
                 },
                 {
                     "Text" : "Official Page",
@@ -288,9 +253,9 @@
             "Color": "#663949ab",
             "Menu":[
                 {
-                    "Text" : "Install",
+                    "Text" : "UNAVAILABLE",
                     "Type":"uri",
-                    "Data": "ms-windows-store://pdp/?productid=9PG495452C01"
+                    "Data": "#"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -325,7 +290,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "ms-windows-store://pdp/?productid=9PCVBK26M38S"
+                    "Data": "ms-windows-store://pdp/?productid=9NWVKKC88K5Q"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -361,7 +326,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "ms-windows-store://pdp/?productid=9PCZNHCMPSBN"
+                    "Data": "ms-windows-store://pdp/?productid=9P72L4MLQ4V0"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -396,7 +361,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "ms-windows-store://pdp/?productid=9NBH25C682WF"
+                    "Data": "ms-windows-store://pdp/?productid=9PG04Q3V8570"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -452,79 +417,6 @@
             ]
         },
 
-
-        {
-            "Title": "Devilution X",
-            "Group": "Games",
-            "Icon": "https://gamr13.github.io/img/DvX.png",
-            "Width": 150,
-            "Height": 130,
-            "Stretched": false,
-            "Tag": "",
-            "TagColor": "Gold",
-            "Border": 1,
-            "Color": "#663949ab",
-            "Menu":[
-                {
-                    "Text" : "Install",
-                    "Type":"uri",
-                    "Data": "ms-windows-store://pdp/?productid=9P64S6NFP7BH"
-                },
-                {
-                    "Text" : "Dev Mode",
-                    "Type": "link",
-                    "Data": "https://github.com/diasurgical/devilutionX/releases/download/1.4.0/devilutionx-xbox-one-series.zip"
-                },
-                {
-                    "Text" : "Official Page",
-                    "Type":"link",
-                    "Data": "https://github.com/diasurgical/devilutionX"
-                },
-                {
-                    "Text" : "About",
-                    "Type":"dialog",
-                    "Data": "DevilutionX is a source port of Diablo and Hellfire that strives to make it simple to run the game while providing engine improvements, bugfixes, and some optional quality of life features."
-                }
-            ]
-        },
-
-
-        {
-            "Title": "Sonic Time Twisted",
-            "Group": "Games",
-            "Icon": "https://gamr13.github.io/img/STT.png",
-            "Width": 150,
-            "Height": 130,
-            "Stretched": false,
-            "Tag": "",
-            "TagColor": "White",
-            "Border": 1,
-            "Color": "#663949ab",
-            "Menu":[
-                {
-                    "Text" : "Install",
-                    "Type":"uri",
-                    "Data": "ms-windows-store://pdp/?productid=9PGZFXN25J6Z"
-                },
-                {
-                    "Text" : "Dev Mode",
-                    "Type": "link",
-                    "Data": "https://www.mediafire.com/file/74shtqbyzr4q2dg/Sonic_Time_Twisted_%255BUnofficial%255D_%2528v1.1.2.0%2529.appx/file"
-                },
-                {
-                    "Text" : "Official Page",
-                    "Type":"link",
-                    "Data": "https://github.com/overbound/SonicTimeTwisted"
-                },
-                {
-                    "Text" : "About",
-                    "Type":"dialog",
-                    "Data": "Sonic Time Twisted is an unofficial classic-style Sonic the Hedgehog fangame."
-                }
-            ]
-        },
-
-
         {
             "Title": "Sonic 1 SMS Remake",
             "Group": "Games",
@@ -540,7 +432,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "ms-windows-store://pdp/?productid=9PLZ6RGL0LPX"
+                    "Data": "ms-windows-store://pdp/?productid=9NTG5SV8P65L"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -576,7 +468,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "ms-windows-store://pdp/?productid=9PGJD2K8DKW3"
+                    "Data": "ms-windows-store://pdp/?productid=9NV4W54488HX"
                 },
                 {
                     "Text" : "Dev Mode",
