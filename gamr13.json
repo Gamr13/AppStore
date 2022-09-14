@@ -125,7 +125,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "ms-windows-store://pdp/?productid=9N8VQ127K8SQ"
+                    "Data": "ms-windows-store://pdp/?productid=9NDKJSWLHJQF"
                 },
                 {
                     "Text" : "Guide",
@@ -253,7 +253,7 @@
             "Color": "#663949ab",
             "Menu":[
                 {
-                    "Text" : "UNAVAILABLE",
+                    "Text" : "Unavailable",
                     "Type":"uri",
                     "Data": "#"
                 },
@@ -290,7 +290,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "ms-windows-store://pdp/?productid=9NWVKKC88K5Q"
+                    "Data": "ms-windows-store://pdp/?productid=9NFDT0MSQDTK"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -326,7 +326,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "ms-windows-store://pdp/?productid=9P72L4MLQ4V0"
+                    "Data": "ms-windows-store://pdp/?productid=9MZ748KFVHJC"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -361,7 +361,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "ms-windows-store://pdp/?productid=9PG04Q3V8570"
+                    "Data": "ms-windows-store://pdp/?productid=9P4TS0RHN149"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -395,9 +395,9 @@
             "Color": "#663949ab",
             "Menu":[
                 {
-                    "Text" : "Install",
+                    "Text" : "Unavailable",
                     "Type":"uri",
-                    "Data": "ms-windows-store://pdp/?productid=9MW1BS08ZBTH"
+                    "Data": "#"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -416,78 +416,6 @@
                 }
             ]
         },
-
-        {
-            "Title": "Sonic 1 SMS Remake",
-            "Group": "Games",
-            "Icon": "https://gamr13.github.io/img/Son1SMS.gif",
-            "Width": 150,
-            "Height": 140,
-            "Stretched": false,
-            "Tag": "",
-            "TagColor": "Blue",
-            "Border": 1,
-            "Color": "#663949ab",
-            "Menu":[
-                {
-                    "Text" : "Install",
-                    "Type":"uri",
-                    "Data": "ms-windows-store://pdp/?productid=9NTG5SV8P65L"
-                },
-                {
-                    "Text" : "Dev Mode",
-                    "Type": "link",
-                    "Data": "https://github.com/MDashK/sonic-1-sms-remake-xbox/releases/download/v1.1.h-xbox/Sonic_1_SMS_Remake_XboxOne.appx"
-                },
-                {
-                    "Text" : "Official Page",
-                    "Type":"link",
-                    "Data": "https://github.com/MDashK/sonic-1-sms-remake-xbox"
-                },
-                {
-                    "Text" : "About",
-                    "Type":"dialog",
-                    "Data": "This game is a redesigned version of the Master System released by SEGA in 1991."
-                }
-            ]
-        },
-
-
-        {
-            "Title": "Sonic 2 SMS Remake",
-            "Group": "Games",
-            "Icon": "https://gamr13.github.io/img/Son2SMS.png",
-            "Width": 150,
-            "Height": 140,
-            "Stretched": false,
-            "Tag": "",
-            "TagColor": "Blue",
-            "Border": 1,
-            "Color": "#663949ab",
-            "Menu":[
-                {
-                    "Text" : "Install",
-                    "Type":"uri",
-                    "Data": "ms-windows-store://pdp/?productid=9NV4W54488HX"
-                },
-                {
-                    "Text" : "Dev Mode",
-                    "Type": "link",
-                    "Data": "https://github.com/MDashK/sonic-2-sms-remake-xbox/releases/download/v2.0.d-xbox/Sonic_2_SMS_Remake_Xbox.appx"
-                },
-                {
-                    "Text" : "Official Page",
-                    "Type":"link",
-                    "Data": "https://github.com/MDashK/sonic-2-sms-remake-xbox"
-                },
-                {
-                    "Text" : "About",
-                    "Type":"dialog",
-                    "Data": "This game is a redesigned version of the Master System released by SEGA in 1992."
-                }
-            ]
-        },
-
 
         {
             "Title": "ABOUT",
