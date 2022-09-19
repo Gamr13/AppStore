@@ -125,7 +125,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "https://tinyurl.com/yc5eky9t"
+                    "Data": "https://tinyurl.com/nawywppf"
                 },
                 {
                     "Text" : "Guide",
@@ -145,41 +145,6 @@
             ]
         },
 	    
-	{
-            "Title": "RetroArch Lite",
-            "Group": "Emulators",
-            "Icon": "https://gamr13.github.io/img/retroarch.png",
-            "Width": 150,
-            "Height": 135,
-            "Stretched": false,
-            "Tag": "",
-            "TagColor": "Gold",
-            "Border": 1,
-            "Color": "#663949ab",
-            "Menu":[
-                {
-                    "Text" : "Install",
-                    "Type":"uri",
-                    "Data": "ms-windows-store://pdp/?productid=9PNHKX10GJVC"
-                },
-                {
-                    "Text" : "Guide",
-                    "Type":"link",
-                    "Data": "http://discord.gg/dominater01"
-                },
-                {
-                    "Text" : "Dev Mode",
-                    "Type":"link",
-                    "Data": "https://drive.google.com/drive/folders/1r6uywvxYw1KtyS54mJ8345-xRFtHRu_c?usp=sharing"
-                },
-                {
-                    "Text" : "About",
-                    "Type":"dialog",
-                    "Data": "RetroArch Lite strips away functions that don't work on Xbox to make a nice clean experience!"
-                }
-            ]
-        },
-	    
         {
             "Title": "DurangoFTP",
             "Group": "TOOLS",
@@ -195,7 +160,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "https://tinyurl.com/yjzkbsw8"
+                    "Data": "https://tinyurl.com/2p8kytk4"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -230,7 +195,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "ms-windows-store://pdp/?productid=9MXB3NQMWVBR"
+                    "Data": "https://tinyurl.com/bdf6s65b"
                 },
                 {
                     "Text" : "Official Page",
@@ -260,7 +225,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "https://tinyurl.com/24xxfmb"
+                    "Data": "https://tinyurl.com/9s24axdu"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -295,7 +260,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "https://tinyurl.com/bdcu2hmw"
+                    "Data": "https://tinyurl.com/mjk47b5j"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -330,7 +295,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "https://tinyurl.com/mw3bu959"
+                    "Data": "https://tinyurl.com/ysh36bbd"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -349,44 +314,7 @@
                 }
             ]
         },
-
-
-        {
-            "Title": "DuckStation",
-            "Group": "Emulators",
-            "Icon": "https://gamr13.github.io/img/duck.png",
-            "Width": 150,
-            "Height": 130,
-            "Stretched": false,
-            "Tag": "",
-            "TagColor": "Gold",
-            "Border": 1,
-            "Color": "#663949ab",
-            "Menu":[
-                {
-                    "Text" : "Install",
-                    "Type":"uri",
-                    "Data": "https://tinyurl.com/3nz5k49h"
-                },
-                {
-                    "Text" : "Dev Mode",
-                    "Type": "link",
-                    "Data": "https://github.com/stenzek/duckstation/releases/download/latest/duckstation-uwp.appx"
-                },
-                {
-                    "Text" : "Official Page",
-                    "Type":"link",
-                    "Data": "https://github.com/stenzek/duckstation"
-                },
-                {
-                    "Text" : "About",
-                    "Type":"dialog",
-                    "Data": "DuckStation is a free and open-source PS1 / PSX emulator."
-                }
-            ]
-        },
-
-
+	    
         {
             "Title": "Flycast",
             "Group": "Emulators",
@@ -402,7 +330,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "https://tinyurl.com/42daazte"
+                    "Data": "https://tinyurl.com/ypxan4h5"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -473,7 +401,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "https://tinyurl.com/mrxf2ewf"
+                    "Data": "https://tinyurl.com/ypmzmcfy"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -508,7 +436,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "https://tinyurl.com/2p84tmup"
+                    "Data": "https://tinyurl.com/yc35n89d"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -543,7 +471,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "https://tinyurl.com/43rcfrm9"
+                    "Data": "https://tinyurl.com/56h8328t"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -578,7 +506,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "https://tinyurl.com/jem2mcjj"
+                    "Data": "https://tinyurl.com/yc67mm7h"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -613,42 +541,12 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "https://tinyurl.com/2b4k5876"
+                    "Data": "https://tinyurl.com/mr4yesks"
                 },
                 {
                     "Text" : "About",
                     "Type":"dialog",
                     "Data": "An Xbox port of Sonic Time Twisted."
-                }
-            ]
-        },
-		
-	{
-            "Title": "VVVVVV",
-            "Group": "Games",
-            "Icon": "https://gamr13.github.io/img/v6jpg.jpg",
-            "Width": 150,
-            "Height": 140,
-            "Stretched": false,
-            "Tag": "",
-            "TagColor": "Blue",
-            "Border": 1,
-            "Color": "#663949ab",
-            "Menu":[
-                {
-                    "Text" : "Unavailable",
-                    "Type":"uri",
-                    "Data": "#"
-                },
-                {
-                    "Text" : "Dev Mode",
-                    "Type": "link",
-                    "Data": "https://www.mediafire.com/file/fe2gwi44jwj5wbi/VVVVVV.7z/file"
-                },
-                {
-                    "Text" : "About",
-                    "Type":"dialog",
-                    "Data": "This game is a redesigned version of the Master System released by SEGA in 1992."
                 }
             ]
         },
@@ -668,7 +566,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "https://tinyurl.com/2p8h9jb9"
+                    "Data": "https://tinyurl.com/2w2epa7x"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -698,7 +596,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "https://tinyurl.com/mrypbyvk"
+                    "Data": "https://tinyurl.com/3tn3ybad"
                 },
                 {
                     "Text" : "Dev Mode",
