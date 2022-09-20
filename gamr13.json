@@ -125,7 +125,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "ms-windows-store://pdp/?productid=9NDKJSWLHJQF"
+                    "Data": "ms-windows-store://pdp/?productid=9MTLHXSK6S54"
                 },
                 {
                     "Text" : "Guide",
@@ -158,9 +158,9 @@
             "Color": "#663949ab",
             "Menu":[
                 {
-                    "Text" : "Install",
+                    "Text" : "Unavailable",
                     "Type":"uri",
-                    "Data": "ms-windows-store://pdp/?productid=9PJGQTMPXFZQ"
+                    "Data": "#"
                 },
                 {
                     "Text" : "Official Page",
@@ -190,7 +190,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "ms-windows-store://pdp/?productid=9NSJGCC3V9LW"
+                    "Data": "ms-windows-store://pdp/?productid=9P6G2434XC8V"
                 },
                 {
                     "Text" : "Official Page",
@@ -290,7 +290,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "ms-windows-store://pdp/?productid=9NFDT0MSQDTK"
+                    "Data": "ms-windows-store://pdp/?productid=9N5QW62ZGVRH"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -326,7 +326,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "ms-windows-store://pdp/?productid=9MZ748KFVHJC"
+                    "Data": "ms-windows-store://pdp/?productid=9NJ52SBH3X89"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -361,7 +361,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "ms-windows-store://pdp/?productid=9P4TS0RHN149"
+                    "Data": "ms-windows-store://pdp/?productid=9NZDZ6K15JF7"
                 },
                 {
                     "Text" : "Dev Mode",
