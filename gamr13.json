@@ -416,6 +416,77 @@
                 }
             ]
         },
+        
+        {
+            "Title": "Sonic 1 SMS Remake",
+            "Group": "Games",
+            "Icon": "https://gamr13.github.io/img/Son1SMS.gif",
+            "Width": 150,
+            "Height": 140,
+            "Stretched": false,
+            "Tag": "",
+            "TagColor": "Blue",
+            "Border": 1,
+            "Color": "#663949ab",
+            "Menu":[
+                {
+                    "Text" : "Install",
+                    "Type":"uri",
+                    "Data": "ms-windows-store://pdp/?productid=9MTZWCPBS6CM"
+                },
+                {
+                    "Text" : "Dev Mode",
+                    "Type": "link",
+                    "Data": "https://github.com/MDashK/sonic-1-sms-remake-xbox/releases/download/v1.1.h-xbox/Sonic_1_SMS_Remake_XboxOne.appx"
+                },
+                {
+                    "Text" : "Official Page",
+                    "Type":"link",
+                    "Data": "https://github.com/MDashK/sonic-1-sms-remake-xbox"
+                },
+                {
+                    "Text" : "About",
+                    "Type":"dialog",
+                    "Data": "This game is a redesigned version of the Master System released by SEGA in 1991."
+                }
+            ]
+        },
+
+
+        {
+            "Title": "Sonic 2 SMS Remake",
+            "Group": "Games",
+            "Icon": "https://gamr13.github.io/img/Son2SMS.png",
+            "Width": 150,
+            "Height": 140,
+            "Stretched": false,
+            "Tag": "",
+            "TagColor": "Blue",
+            "Border": 1,
+            "Color": "#663949ab",
+            "Menu":[
+                {
+                    "Text" : "Install",
+                    "Type":"uri",
+                    "Data": "ms-windows-store://pdp/?productid=9PL5C128C5K6"
+                },
+                {
+                    "Text" : "Dev Mode",
+                    "Type": "link",
+                    "Data": "https://github.com/MDashK/sonic-2-sms-remake-xbox/releases/download/v2.0.d-xbox/Sonic_2_SMS_Remake_Xbox.appx"
+                },
+                {
+                    "Text" : "Official Page",
+                    "Type":"link",
+                    "Data": "https://github.com/MDashK/sonic-2-sms-remake-xbox"
+                },
+                {
+                    "Text" : "About",
+                    "Type":"dialog",
+                    "Data": "This game is a redesigned version of the Master System released by SEGA in 1992."
+                }
+            ]
+        },
 
         {
             "Title": "ABOUT",
