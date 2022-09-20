@@ -295,7 +295,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "https://tinyurl.com/ysh36bbd"
+                    "Data": "ms-windows-store://pdp/?productid=9NTV7CFWPCHD"
                 },
                 {
                     "Text" : "Dev Mode",
