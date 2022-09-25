@@ -125,7 +125,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "ms-windows-store://pdp/?productid=9MTLHXSK6S54"
+                    "Data": "ms-windows-store://pdp/?productid=9NLK6HND9JCR"
                 },
                 {
                     "Text" : "Guide",
@@ -144,37 +144,7 @@
                 }
             ]
         },
-        
-        {
-            "Title": "XBSX2 - Xbox ONE",
-            "Group": "Emulators",
-            "Icon": "https://i.imgur.com/oeRcXhS.png",
-            "Width": 150,
-            "Height": 130,
-            "Stretched": false,
-            "Tag": "",
-            "TagColor": "Gold",
-            "Border": 1,
-            "Color": "#663949ab",
-            "Menu":[
-                {
-                    "Text" : "Unavailable",
-                    "Type":"uri",
-                    "Data": "#"
-                },
-                {
-                    "Text" : "Official Page",
-                    "Type":"link",
-                    "Data": "https://github.com/TheRhysWyrill/XBSX2"
-                },
-                {
-                    "Text" : "About",
-                    "Type":"dialog",
-                    "Data": "Standalone port of a certain PS2 emulator, this is for Xbox One consoles only!"
-                }
-            ]
-        },
-        
+       
          {
             "Title": "XBSX2 - SERIES X|S",
             "Group": "Emulators",
@@ -190,7 +160,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "ms-windows-store://pdp/?productid=9P6G2434XC8V"
+                    "Data": "ms-windows-store://pdp/?productid=9P0L0XG68QTX"
                 },
                 {
                     "Text" : "Official Page",
@@ -290,7 +260,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "ms-windows-store://pdp/?productid=9N5QW62ZGVRH"
+                    "Data": "ms-windows-store://pdp/?productid=9P4KFBQSZDSR"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -326,7 +296,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "ms-windows-store://pdp/?productid=9NJ52SBH3X89"
+                    "Data": "ms-windows-store://pdp/?productid=9MXPL9R1PHXX"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -361,7 +331,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "ms-windows-store://pdp/?productid=9NZDZ6K15JF7"
+                    "Data": "ms-windows-store://pdp/?productid=9P194MDVSZL5"
                 },
                 {
                     "Text" : "Dev Mode",
