@@ -125,7 +125,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "ms-windows-store://pdp/?productid=9NLK6HND9JCR"
+                    "Data": "https://tinyurl.com/mnj6a7mh"
                 },
                 {
                     "Text" : "Guide",
@@ -160,7 +160,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "ms-windows-store://pdp/?productid=9P0L0XG68QTX"
+                    "Data": "https://tinyurl.com/az47msmp"
                 },
                 {
                     "Text" : "Official Page",
@@ -223,9 +223,9 @@
             "Color": "#663949ab",
             "Menu":[
                 {
-                    "Text" : "Unavailable",
+                    "Text" : "Install",
                     "Type":"uri",
-                    "Data": "#"
+                    "Data": "https://tinyurl.com/4px9xfwp"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -260,7 +260,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "ms-windows-store://pdp/?productid=9P4KFBQSZDSR"
+                    "Data": "https://tinyurl.com/2p9uybbp"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -296,7 +296,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "ms-windows-store://pdp/?productid=9MXPL9R1PHXX"
+                    "Data": "https://tinyurl.com/3bkxz8y6"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -331,7 +331,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "ms-windows-store://pdp/?productid=9P194MDVSZL5"
+                    "Data": "https://tinyurl.com/jrd79pff"
                 },
                 {
                     "Text" : "Dev Mode",
