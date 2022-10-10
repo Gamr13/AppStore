@@ -193,9 +193,9 @@
             "Color": "#663949ab",
             "Menu":[
                 {
-                    "Text" : "Unavailable",
+                    "Text" : "Install",
                     "Type":"uri",
-                    "Data": "#"
+                    "Data": "https://tinyurl.com/yeyjv6hn"
                 },
                 {
                     "Text" : "Official Page",
@@ -223,9 +223,9 @@
             "Color": "#663949ab",
             "Menu":[
                 {
-                    "Text" : "Unavailable",
+                    "Text" : "Install",
                     "Type":"uri",
-                    "Data": "#"
+                    "Data": "https://tinyurl.com/ym2556yf"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -258,9 +258,9 @@
             "Color": "#663949ab",
             "Menu":[
                 {
-                    "Text" : "Unavailable",
+                    "Text" : "Install",
                     "Type":"uri",
-                    "Data": "#"
+                    "Data": "https://tinyurl.com/2ec9xcbd"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -295,7 +295,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "ms-windows-store://pdp/?productid=9PJW8JX8J2TT"
+                    "Data": "https://tinyurl.com/3esnm5yj"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -330,7 +330,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "ms-windows-store://pdp/?productid=9PPF6X77MML4"
+                    "Data": "https://tinyurl.com/2p97xmm6"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -399,9 +399,9 @@
             "Color": "#663949ab",
             "Menu":[
                 {
-                    "Text" : "Install",
+                    "Text" : "Unavailable",
                     "Type":"uri",
-                    "Data": "ms-windows-store://pdp/?productid=9N7QKT96C530"
+                    "Data": "#"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -539,9 +539,9 @@
             "Color": "#663949ab",
             "Menu":[
                 {
-                    "Text" : "Install",
+                    "Text" : "Unavailable",
                     "Type":"uri",
-                    "Data": "ms-windows-store://pdp/?productid=9PPLC96KXG26"
+                    "Data": "#"
                 },
                 {
                     "Text" : "About",
