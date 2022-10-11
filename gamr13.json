@@ -125,7 +125,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "https://tinyurl.com/mnj6a7mh"
+                    "Data": "ms-windows-store://pdp/?productid=9PJCC1VGNRPL"
                 },
                 {
                     "Text" : "Guide",
@@ -146,7 +146,7 @@
         },
        
          {
-            "Title": "XBSX2 - SERIES X|S",
+            "Title": "XBSX2",
             "Group": "Emulators",
             "Icon": "https://i.imgur.com/oeRcXhS.png",
             "Width": 150,
@@ -160,7 +160,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "https://tinyurl.com/az47msmp"
+                    "Data": "ms-windows-store://pdp/?productid=9NSZ9RNBF7ZS"
                 },
                 {
                     "Text" : "Official Page",
@@ -175,40 +175,6 @@
             ]
         },
         
-        {
-            "Title": "RetriX Gold",
-            "Group": "Emulators",
-            "Icon": "https://gamr13.github.io/img/retrix.png",
-            "Width": 120,
-            "Height": 120,
-            "Stretched": false,
-            "Tag": "FEATURED",
-            "TagColor": "Gold",
-            "Border": 1,
-            "Color": "#663949ab",
-            "Menu":[
-                {
-                    "Text" : "Install",
-                    "Type":"uri",
-                    "Data": "ms-windows-store://pdp/?productid=9NZTKKSTJQSD"
-                },
-                {
-                    "Text" : "Install Cores",
-                    "Type":"uri",
-                    "Data": "rgxactivate::ms"
-                },
-                {
-                    "Text" : "Official Page",
-                    "Type":"link",
-                    "Data": "https://retrix.astifan.online/"
-                },
-                {
-                    "Text" : "About",
-                    "Type":"dialog",
-                    "Data": "RetriX is the first Libretro front end that is optimized for multiple input methods: gamepad, mouse + keyboard and touch are all first class citizens."
-                }
-            ]
-        },
 
         {
             "Title": "RetroPass",
@@ -225,7 +191,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "https://tinyurl.com/4px9xfwp"
+                    "Data": "ms-windows-store://pdp/?productid=9MV144JWL1Q5"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -260,7 +226,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "https://tinyurl.com/2p9uybbp"
+                    "Data": "ms-windows-store://pdp/?productid=9PKX7F7R9JG5"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -296,7 +262,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "https://tinyurl.com/3bkxz8y6"
+                    "Data": "ms-windows-store://pdp/?productid=9NTM54R6RPWC"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -331,7 +297,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "https://tinyurl.com/jrd79pff"
+                    "Data": "ms-windows-store://pdp/?productid=9PBJHDTGS78P"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -402,7 +368,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "ms-windows-store://pdp/?productid=9MTZWCPBS6CM"
+                    "Data": "ms-windows-store://pdp/?productid=9NQ4DJ6SWKMG"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -438,12 +404,117 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "ms-windows-store://pdp/?productid=9PL5C128C5K6"
+                    "Data": "ms-windows-store://pdp/?productid=9NGZTPZ7NFDJ"
                 },
                 {
                     "Text" : "Dev Mode",
                     "Type": "link",
                     "Data": "https://github.com/MDashK/sonic-2-sms-remake-xbox/releases/download/v2.0.d-xbox/Sonic_2_SMS_Remake_Xbox.appx"
+                },
+                {
+                    "Text" : "Official Page",
+                    "Type":"link",
+                    "Data": "https://github.com/MDashK/sonic-2-sms-remake-xbox"
+                },
+                {
+                    "Text" : "About",
+                    "Type":"dialog",
+                    "Data": "This game is a redesigned version of the Master System released by SEGA in 1992."
+                }
+            ]
+        },
+        
+        {
+            "Title": "Sonic 1",
+            "Group": "Games",
+            "Icon": "https://gamr13.github.io/img/sonic1.jpg",
+            "Width": 150,
+            "Height": 140,
+            "Stretched": false,
+            "Tag": "",
+            "TagColor": "Blue",
+            "Border": 1,
+            "Color": "#663949ab",
+            "Menu":[
+                {
+                    "Text" : "Install",
+                    "Type":"uri",
+                    "Data": "ms-windows-store://pdp/?productid=9P1DXRS9KWZT"
+                },
+                {
+                    "Text" : "Dev Mode",
+                    "Type": "link",
+                    "Data": "https://www.mediafire.com/file/qpdmtc4gi8rwuc6/sonic1.zip/file"
+                },
+                {
+                    "Text" : "Official Page",
+                    "Type":"link",
+                    "Data": "https://github.com/MDashK/sonic-2-sms-remake-xbox"
+                },
+                {
+                    "Text" : "About",
+                    "Type":"dialog",
+                    "Data": "This game is a redesigned version of the Master System released by SEGA in 1992."
+                }
+            ]
+        },
+		
+	{
+            "Title": "Sonic 2",
+            "Group": "Games",
+            "Icon": "https://gamr13.github.io/img/sonic2.jpg",
+            "Width": 150,
+            "Height": 140,
+            "Stretched": false,
+            "Tag": "",
+            "TagColor": "Blue",
+            "Border": 1,
+            "Color": "#663949ab",
+            "Menu":[
+                {
+                    "Text" : "Install",
+                    "Type":"uri",
+                    "Data": "ms-windows-store://pdp/?productid=9NLF9DLGH1RQ"
+                },
+                {
+                    "Text" : "Dev Mode",
+                    "Type": "link",
+                    "Data": "https://www.mediafire.com/file/wq97qtjsed3aw6h/sonic2.zip/file"
+                },
+                {
+                    "Text" : "Official Page",
+                    "Type":"link",
+                    "Data": "https://github.com/MDashK/sonic-2-sms-remake-xbox"
+                },
+                {
+                    "Text" : "About",
+                    "Type":"dialog",
+                    "Data": "This game is a redesigned version of the Master System released by SEGA in 1992."
+                }
+            ]
+        },
+		
+	{
+            "Title": "Sonic CD",
+            "Group": "Games",
+            "Icon": "https://gamr13.github.io/img/soniccd.jpeg",
+            "Width": 150,
+            "Height": 140,
+            "Stretched": false,
+            "Tag": "",
+            "TagColor": "Blue",
+            "Border": 1,
+            "Color": "#663949ab",
+            "Menu":[
+                {
+                    "Text" : "Install",
+                    "Type":"uri",
+                    "Data": "ms-windows-store://pdp/?productid=9NGW229N0X1F"
+                },
+                {
+                    "Text" : "Dev Mode",
+                    "Type": "link",
+                    "Data": "https://www.mediafire.com/file/wq97qtjsed3aw6h/sonic2.zip/file"
                 },
                 {
                     "Text" : "Official Page",
