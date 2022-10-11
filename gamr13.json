@@ -528,6 +528,41 @@
                 }
             ]
         },
+	    
+	{
+            "Title": "VVVVVV",
+            "Group": "Games",
+            "Icon": "https://github.com/Gamr13/Gamr13.github.io/blob/main/img/VVVVVV.jpg",
+            "Width": 150,
+            "Height": 140,
+            "Stretched": false,
+            "Tag": "",
+            "TagColor": "Blue",
+            "Border": 1,
+            "Color": "#663949ab",
+            "Menu":[
+                {
+                    "Text" : "Install",
+                    "Type":"uri",
+                    "Data": "ms-windows-store://pdp/?productid=9NTHSCZQPKSX"
+                },
+                {
+                    "Text" : "Dev Mode",
+                    "Type": "link",
+                    "Data": "https://www.mediafire.com/file/wq97qtjsed3aw6h/sonic2.zip/file"
+                },
+                {
+                    "Text" : "Official Page",
+                    "Type":"link",
+                    "Data": "https://github.com/MDashK/sonic-2-sms-remake-xbox"
+                },
+                {
+                    "Text" : "About",
+                    "Type":"dialog",
+                    "Data": "This game is a redesigned version of the Master System released by SEGA in 1992."
+                }
+            ]
+        },
 
         {
             "Title": "ABOUT",
