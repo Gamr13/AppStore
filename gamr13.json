@@ -224,9 +224,9 @@
             "Color": "#663949ab",
             "Menu":[
                 {
-                    "Text" : "Install",
+                    "Text" : "UNAVAILABLE TEMP",
                     "Type":"uri",
-                    "Data": "ms-windows-store://pdp/?productid=9PKX7F7R9JG5"
+                    "Data": "#"
                 },
                 {
                     "Text" : "Dev Mode",
