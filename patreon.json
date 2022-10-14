@@ -125,7 +125,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "ms-windows-store://pdp/?productid=9PNTZTJ5TFWC"
+                    "Data": "ms-windows-store://pdp/?productid=9P86JXB87ZQ2"
                 },
                 {
                     "Text" : "Guide",
@@ -160,7 +160,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "ms-windows-store://pdp/?productid=9N7GK942969W"
+                    "Data": "ms-windows-store://pdp/?productid=9PNZSHTZVLCT"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -195,7 +195,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "https://tinyurl.com/yeyjv6hn"
+                    "Data": "ms-windows-store://pdp/?productid=9NCBPV08Q2W1"
                 },
                 {
                     "Text" : "Official Page",
@@ -225,7 +225,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "https://tinyurl.com/ym2556yf"
+                    "Data": "ms-windows-store://pdp/?productid=9N83QT00P711"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -245,41 +245,6 @@
             ]
         },
 		
-		{
-            "Title": "Kodi Leia",
-            "Group": "TOOLS",
-            "Icon": "https://gamr13.github.io/img/kodi2.png",
-            "Width": 150,
-            "Height": 130,
-            "Stretched": false,
-            "Tag": "",
-            "TagColor": "Gold",
-            "Border": 1,
-            "Color": "#663949ab",
-            "Menu":[
-                {
-                    "Text" : "Install",
-                    "Type":"uri",
-                    "Data": "https://tinyurl.com/2ec9xcbd"
-                },
-                {
-                    "Text" : "Dev Mode",
-                    "Type": "link",
-                    "Data": "https://www.mediafire.com/file/2a99a1ugj7hbn41/Kodi_20191116-37f51f6e-Leia-x64.7z/file"
-                },
-                {
-                    "Text" : "Official Page",
-                    "Type":"link",
-                    "Data": "https://github.com/Dantes-Dungeon/DURANGO-FTP"
-                },
-                {
-                    "Text" : "About",
-                    "Type":"dialog",
-                    "Data": "Transfer files wirelessly on your local network!"
-                }
-            ]
-        },
-
         {
             "Title": "PPSSPP",
             "Group": "Emulators",
@@ -295,7 +260,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "https://tinyurl.com/3esnm5yj"
+                    "Data": "ms-windows-store://pdp/?productid=9NZKTJ14JZCL"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -330,7 +295,7 @@
                 {
                     "Text" : "Install",
                     "Type":"uri",
-                    "Data": "https://tinyurl.com/2p97xmm6"
+                    "Data": "ms-windows-store://pdp/?productid=9PBSV7BFC9C5"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -434,9 +399,9 @@
             "Color": "#663949ab",
             "Menu":[
                 {
-                    "Text" : "Unavailable",
+                    "Text" : "Install",
                     "Type":"uri",
-                    "Data": "#"
+                    "Data": "ms-windows-store://pdp/?productid=9NKC8Z9NC737"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -469,9 +434,9 @@
             "Color": "#663949ab",
             "Menu":[
                 {
-                    "Text" : "Unavailable",
+                    "Text" : "Install",
                     "Type":"uri",
-                    "Data": "#"
+                    "Data": "ms-windows-store://pdp/?productid=9NJH2RC5S4M9"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -504,9 +469,9 @@
             "Color": "#663949ab",
             "Menu":[
                 {
-                    "Text" : "Unavailable",
+                    "Text" : "Install",
                     "Type":"uri",
-                    "Data": "#"
+                    "Data": "ms-windows-store://pdp/?productid=9NJ7ZSWH38SS"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -539,9 +504,9 @@
             "Color": "#663949ab",
             "Menu":[
                 {
-                    "Text" : "Unavailable",
+                    "Text" : "Install",
                     "Type":"uri",
-                    "Data": "#"
+                    "Data": "ms-windows-store://pdp/?productid=9NG1NP3JL89L"
                 },
                 {
                     "Text" : "About",
@@ -564,9 +529,9 @@
             "Color": "#663949ab",
             "Menu":[
                 {
-                    "Text" : "Unavailable",
+                    "Text" : "Install",
                     "Type":"uri",
-                    "Data": "#"
+                    "Data": "https://tinyurl.com/j3k24d52"
                 },
                 {
                     "Text" : "Dev Mode",
@@ -594,9 +559,9 @@
             "Color": "#663949ab",
             "Menu":[
                 {
-                    "Text" : "Unavailable",
+                    "Text" : "Install",
                     "Type":"uri",
-                    "Data": "#"
+                    "Data": "ms-windows-store://pdp/?productid=9NMBVJ83VZ6W"
                 },
                 {
                     "Text" : "Dev Mode",
